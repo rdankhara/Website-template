@@ -1,0 +1,2 @@
+use right section names 
+e.g. instead <div id="header"> use <header> element, similarly <main> for main, <footer> for footer
